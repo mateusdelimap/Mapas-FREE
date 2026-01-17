@@ -8,8 +8,8 @@
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LS.txt)
-[Clique aqui para baixar DB para texture studio](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LsDB.db)
+*[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LS.txt)
+*[Clique aqui para baixar DB para texture studio](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LsDB.db)
 ---
 
 ## 💡 Destaques do Mapa
