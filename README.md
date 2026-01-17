@@ -15,7 +15,7 @@ Escolha o mapa que deseja e siga para o ramo correspondente.
 
 Este é o ramo principal (`main`), onde você encontra informações gerais sobre o projeto e links para os outros mapas.
 
-🔗 [Clique aqui para acessar o link principal](https://github.com/mateusdelimap/mapas) <!-- Link para o ramo principal -->
+🔗 [Clique aqui para acessar o link principal](https://github.com/mateusdelimap/Mapas-FREE) <!-- Link para o ramo principal -->
 
 ---
 
