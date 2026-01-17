@@ -1,4 +1,4 @@
-# 🎮 Mapa Posto LTD Gasoline
+# 🎮 Mapa Praca
 
 📌 posto gta v para samp gratis fiz para um servidor meu mas como nao foi para frente o projeto vim distribuir ele para voces!
 
@@ -8,8 +8,8 @@
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-[Clique aqui para baixar](https://github.com/mateusdelimap/Postos/blob/main/PostoLTD/POSTOLTD.txt)
-
+[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LS.txt)
+[Clique aqui para baixar DB para texture studio](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LsDB.db)
 ---
 
 ## 💡 Destaques do Mapa
@@ -24,7 +24,7 @@ Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
 Confira o vídeo de apresentação do mapa e veja como ele pode transformar seu servidor:
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=gr8qY0zt2V4)
+[Assistir no YouTube](youtube.com/watch?v=tgatV46vgFI&feature=youtu.be)
 
 ---
 

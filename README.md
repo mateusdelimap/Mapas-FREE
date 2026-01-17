@@ -23,11 +23,11 @@ Este é o ramo principal (`main`), onde você encontra informações gerais sobr
 
 Aqui estão todos os mapas disponíveis. Cada mapa possui seu próprio ramo com detalhes específicos, imagens e instruções de instalação.
 
-### 1. **Posto LTD Los Santos: Sul**
+### 1. **Praça de Los Santos**
 
-* **Descrição:** Mapa do posto *Limited Gasoline* inspirado no GTA V.
-  Decidi não fazer 100% idêntico, pois achei que não ficaria tão legal — preferi seguir a ideia original com algumas adaptações criativas.
-* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Postos/tree/main/PostoLTD) <!-- Link para o ramo deste mapa -->
+* **Descrição:** Mapa de praça urbana inspirado no estilo de Los Santos (GTAV).  
+O projeto não foi desenvolvido como uma cópia 100% fiel ao jogo original; a proposta foi manter a identidade visual de Los Santos, aplicando adaptações criativas para melhorar a jogabilidade, a otimização e a experiência de roleplay.
+* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/Praca-LS) <!-- Link para o ramo deste mapa -->
 
 ---
 
