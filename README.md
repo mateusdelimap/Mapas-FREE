@@ -29,6 +29,10 @@ Aqui estão todos os mapas disponíveis. Cada mapa possui seu próprio ramo com 
 O projeto não foi desenvolvido como uma cópia 100% fiel ao jogo original; a proposta foi manter a identidade visual de Los Santos, aplicando adaptações criativas para melhorar a jogabilidade, a otimização e a experiência de roleplay.
 * 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/Praca-LS) <!-- Link para o ramo deste mapa -->
 
+### 2. **interior Prefeitura**
+* **Descrição:** Mapa de praça urbana inspirado no estilo de Los Santos (GTAV).  
+O projeto não foi desenvolvido como uma cópia 100% fiel ao jogo original; a proposta foi manter a identidade visual de Los Santos, aplicando adaptações criativas para melhorar a jogabilidade, a otimização e a experiência de roleplay.
+* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/Praca-LS) <!-- Link para o ramo deste mapa -->
 ---
 
 ## 📥 Como Baixar e Usar
