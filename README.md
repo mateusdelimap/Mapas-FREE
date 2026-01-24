@@ -30,9 +30,8 @@ O projeto não foi desenvolvido como uma cópia 100% fiel ao jogo original; a pr
 * 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/Praca-LS) <!-- Link para o ramo deste mapa -->
 
 ### 2. **interior Prefeitura**
-* **Descrição:** Mapa de praça urbana inspirado no estilo de Los Santos (GTAV).  
-O projeto não foi desenvolvido como uma cópia 100% fiel ao jogo original; a proposta foi manter a identidade visual de Los Santos, aplicando adaptações criativas para melhorar a jogabilidade, a otimização e a experiência de roleplay.
-* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/Praca-LS) <!-- Link para o ramo deste mapa -->
+* **Descrição:** Este interior foi feito para um servidor que estava em desenvolvimento, mas que não foi levado adiante. Por isso, decidi disponibilizá-lo gratuitamente para quem quiser usar como base ou estudar os prefabs. Fique à vontade para modificar o mapa, desde que os créditos sejam mantidos. 
+* 🔗 [Acessar link do mapa](https://github.com/mateusdelimap/Mapas-FREE/tree/main/INT-Prefeitura) <!-- Link para o ramo deste mapa -->
 ---
 
 ## 📥 Como Baixar e Usar
