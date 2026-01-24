@@ -1,4 +1,4 @@
-# 🎮 Mapa Praca
+# 🎮 Mapa Interior Prefeitura
 
 📌 posto gta v para samp gratis fiz para um servidor meu mas como nao foi para frente o projeto vim distribuir ele para voces!
 
@@ -8,13 +8,12 @@
 
 Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
-*[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-FREE/blob/main/Praca-LS/Praca_LS.txt)
+*[Clique aqui para baixar](https://github.com/mateusdelimap/Mapas-FREE/blob/main/INT-Prefeitura/MAPADROPREF.txt)
 ---
 
 ## 💡 Destaques do Mapa
 
-- **Ambiente detalhado**: Com objetos modificados para que possa parecer com o GTA V.
-- **Versátil**: Perfeito para interações RP.
+- **Versátil**: Perfeito para interações RP e estudos .
 - **Fácil de instalar**: Compatível com SAMP e de simples configuração.
 
 ---
