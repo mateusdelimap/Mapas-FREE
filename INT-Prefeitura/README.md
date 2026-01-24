@@ -1,7 +1,7 @@
 # 🎮 Mapa Interior Prefeitura
 
-📌 posto gta v para samp gratis fiz para um servidor meu mas como nao foi para frente o projeto vim distribuir ele para voces!
-
+📌 Interior de Prefeitura para SA-MP (gratuito).
+Este mapa foi desenvolvido para um servidor próprio, porém o projeto não foi levado adiante. Por isso, decidi disponibilizá-lo gratuitamente para a comunidade, permitindo o uso como base, estudo ou adaptação em outros servidores.
 ---
 
 ## 🔗 Download Gratuito
@@ -22,7 +22,7 @@ Faça o download do mapa agora mesmo e transforme o visual do seu servidor:
 
 Confira o vídeo de apresentação do mapa e veja como ele pode transformar seu servidor:
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=tgatV46vgFI)
+[Assistir no YouTube](https://youtu.be/DOhkcvZ05hU?si=VvGnezXMKJ6v4ka1)
 
 ---
 
